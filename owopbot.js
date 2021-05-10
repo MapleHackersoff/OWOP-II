@@ -34,4 +34,4 @@ Client.on("message", msg => {
     console.log(message)
 });
 
-client.login("ODQxMzU4NDk5NDAwOTA4ODMw.YJlmKQ.hljBaYkPwSEqGVdY1Tp8so7Kf4Q")
+client.login("ODQxMzU4NDk5NDAwOTA4ODMw.YJlmKQ.hljBaYkPwSEqGVdY1Tp8so7Kf4Q") // this bot token is invalid lol
